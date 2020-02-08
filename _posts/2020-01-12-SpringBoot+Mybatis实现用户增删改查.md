@@ -8,8 +8,8 @@ header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - java
-    - html
-    - 面试
+    - spring
+    - mybatis
 ---
 
 ## 用Springboot简单实现一个对用户增删改查的页面
