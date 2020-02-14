@@ -1,10 +1,10 @@
 # Site settings
-title: HelloJinsilei
-SEOTitle: ListJ的博客 | HJ Blog
+title: PlanetWalker
+SEOTitle: PlanetWalker的博客 | HJ Blog
 header-img: img/post-bg-desk.jpg
 email: 619471333@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, ListJ的博客, qiubaiying, 金思磊, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, PlanetWalker的博客, 金思磊, iOS, Apple, iPhone"
 url: "http://hellojinsilei.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hellojinsilei/hellojinsilei.github.io" # you code repository
